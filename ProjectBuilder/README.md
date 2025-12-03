@@ -1,0 +1,5 @@
+- Needs python to run
+- Install python modules from requirements.txt
+- Update line 17 of app.py with groq api key
+- streamlit run app.py to run the app
+- It is a single user app and hence authentication is not needed

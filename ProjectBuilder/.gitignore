@@ -1,0 +1,5 @@
+project_builder.db
+projects/
+__pycache__/
+*.pyc
+.env

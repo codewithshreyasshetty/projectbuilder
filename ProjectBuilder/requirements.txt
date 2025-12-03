@@ -1,0 +1,6 @@
+streamlit==1.29.0
+groq==0.4.1
+flask
+flask_cors 
+PyJWT==2.8.0
+pytest

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+project_builder.db
+.vscode/
+projects/
+.git
